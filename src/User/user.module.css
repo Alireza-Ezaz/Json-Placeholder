@@ -1,0 +1,19 @@
+.userContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    border: 4px solid lightslategray;
+    border-radius: 20px;
+    /*background-color: deepskyblue;*/
+    margin-inline-end: 10px;
+    height: 300px;
+    /*width: 250px;*/
+}
+
+.propertyContainer {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
